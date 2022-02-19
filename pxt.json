@@ -1,0 +1,29 @@
+{
+    "name": "Reactiespel",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.2.7",
+        "tag": "v1.2.7",
+        "commits": "https://github.com/Microsoft/pxt-microbit/commits/2aa8d0cec64fe20cfb15cb20318f12dcd8b66755",
+        "target": "4.0.17",
+        "pxt": "4.4.5",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
